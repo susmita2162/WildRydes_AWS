@@ -21,5 +21,6 @@ Explore the magic behind Wild Rydes with a robust serverless architecture, utili
 
 **AWS Amplify Console:** Enables continuous deployment and hosting, ensuring optimal performance of static web resources.
 
-![Welcome Page](Artifacts/Welcome1.png)
+![Welcome Page]
+(Artifacts/Welcome1.png)
 
