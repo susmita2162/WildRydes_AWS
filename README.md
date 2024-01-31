@@ -16,4 +16,7 @@ Explore the magic behind Wild Rydes with a robust serverless architecture, utili
 **Amazon Cognito:** Delivers secure user management and authentication functionalities, safeguarding the backend API.
 **AWS Amplify Console:** Enables continuous deployment and hosting, ensuring optimal performance of static web resources.
 
-![Welcome Page!](./WildRydes_AWS/Artifacts/Welcome1.png)
+![Welcome Page!](Artifacts/Welcome1.png)
+![Story!](Artifacts/Welcome2.png)
+![Footer!](Artifacts/Welcome3.png)
+![Icon!](Artifacts/Welcome4.png)
