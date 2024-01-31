@@ -21,8 +21,34 @@ Explore the magic behind Wild Rydes with a robust serverless architecture, utili
 
 **AWS Amplify Console:** Enables continuous deployment and hosting, ensuring optimal performance of static web resources.
 
+**Welcome Page**
 
 ![Welcome Page!](Artifacts/Welcome1.png)
+
 ![Story!](Artifacts/Welcome2.png)
 ![Footer!](Artifacts/Welcome3.png)
 ![Icon!](Artifacts/Welcome4.png)
+
+**Registration Page**
+![SignUp!](Artifacts/SUP1.png)
+
+**Verification PAGE**
+
+![Verification!](Artifacts/VERIF5.png)
+![Verification code!](Artifacts/VERIF6.png)
+
+**Sign In**
+![Sign in!](Artifacts/VERIFSIGNIN7.png)
+
+**UI for booking ride**
+![UI Welcome!](Artifacts/UI1.png)
+![Pickup!](Artifacts/UI2.png)
+![Ride!](Artifacts/UI3.png)
+![Muessages!](Artifacts/UI4.png)
+
+
+
+
+
+
+
